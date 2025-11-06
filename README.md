@@ -41,6 +41,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 ## Recursos adicionales
 - **Código fuente completo**: [Repositorio de GitHub](https://github.com/yourusername/java-fundamentals-course-teamname)
 - **Todas las actividades prácticas**:
+
 | Número de lección | Actividad | Empezar a programar |
 |----------|----------|-------------|
 | 1 | Hola mundo | [Replit](https://replit.com/@your-lesson1) |
