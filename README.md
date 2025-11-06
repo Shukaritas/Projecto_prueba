@@ -60,12 +60,21 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 **¡Gracias por completar el curso!**
 ---
 ## 👥 Elaboración
+
 Universidad Peruana de Ciencias Aplicadas
+
 Carrera de Ingeniería de Software
+
 Período 202520
+
 1ASI0729 Desarrollo de Aplicaciones Open Source
+
 NRC [Número de NRC]
+
 **Nombre del equipo**: [Nombre de tu equipo]
+
 **Líder del equipo**: [Nombres y Apellidos]
+
 **Integrantes del equipo**: [Nombres y Apellidos]
+
 **Fecha de entrega**: [Fecha]
